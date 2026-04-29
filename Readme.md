@@ -1,1 +1,1 @@
-" This is Github Hands on project "
+" This is Hands on project using Github Actions"
